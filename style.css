@@ -1,10 +1,12 @@
 body {
+    background-color: ghostwhite;
     font-family: 'sans-serif';
     font-size: 14px;
     max-width: 960px;
     margin: auto;
 }
 h1 {
+    color:green;
     font-size: 3em;
     letter-spacing: .2em;
     padding-top: 1em;
@@ -12,6 +14,7 @@ h1 {
 }
 
 h2 {
+    color:green;
     font-size: 1.5em;
     padding-bottom: 1em;
 }
